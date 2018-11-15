@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SchedulerControlEventViewer/Form1.cs) (VB: [Form1.vb](./VB/SchedulerControlEventViewer/Form1.vb))
+* [Program.cs](./CS/SchedulerControlEventViewer/Program.cs) (VB: [Program.vb](./VB/SchedulerControlEventViewer/Program.vb))
+* [SchedulerEventHooker.cs](./CS/SchedulerControlEventViewer/SchedulerEventHooker.cs) (VB: [SchedulerEventHooker.vb](./VB/SchedulerControlEventViewer/SchedulerEventHooker.vb))
+<!-- default file list end -->
 # SchedulerControl and SchedulerStorage Event Viewer
 
 
